@@ -4,7 +4,8 @@ Includes an adapted `AGENTS.md` from [eeshansrivastava89/skills](https://github.
 
 # Skills
 
-Adapted from [mattpocock/skills](https://github.com/mattpocock/skills) — only the skills I currently use are included. The main adaptation is that issues are tracked in a local `/issues` folder instead of GitHub.
+Adapted from [mattpocock/skills@5d78bd0](https://github.com/mattpocock/skills) — only the skills I currently use are included. The main adaptation is that issues are tracked in a local `/issues` folder instead of GitHub.
+
 
 ---
 
